@@ -1,7 +1,7 @@
 # FriendFinder
 A simple dating app. This full-stack site will take in results from your users' surveys, then compare their answers with those from other users. The app will then display the name and picture of the user with the best overall match.
 
-##App Overview
+## App Overview
 1. **server.js:** JS file to handle initializing an express server and require routes from htmlRoutes.js and apiRoutes.js
 
 1. **friends.js:** JS file used to hold data for potential matches. Data is stored in an array of objects.
